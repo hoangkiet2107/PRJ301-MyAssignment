@@ -1,0 +1,29 @@
+h1{
+color: blue;
+text-align: center;
+}
+.title
+.header_page{
+    width: 100%;
+    height: 50px;
+    
+}
+.username{
+    width: 30%;
+    height: 50px;
+    
+    float: right;
+}
+.user_left{
+    padding-left: 50px;
+}
+.username a{
+    padding-left: 50px;
+    padding-right: 0;
+}
+.table_at{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-left: 30%;
+}
